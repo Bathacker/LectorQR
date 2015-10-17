@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LectorQR</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Agregar proyecto</string>
+    <string name="action_clear">Settings</string>
+    <string name="action_creditos">Creditos</string>
+</resources>
